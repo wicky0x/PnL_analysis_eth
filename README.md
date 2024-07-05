@@ -7,6 +7,7 @@ Profit/Loss Analysis CLI Script to get the profit and loss of a wallet's trades 
 
 Good for analysing any alpha wallet for copy trades. Interested investors, traders and developers can reach me at my Telegram: Travis_BZ
 
+[Screencast from 2024-07-05 17-15-10.webm](https://github.com/TrasherTravis/PnL_analysis_eth/assets/69963432/d75b3f5c-9a99-4742-86c3-827a6105b86f)
 
 ![Screenshot from 2024-07-05 08-51-52](https://github.com/TrasherTravis/PnL_analysis_eth/assets/69963432/73a1d4f8-47ae-4488-9df0-7feaf9b21c17)
 
