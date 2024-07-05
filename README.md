@@ -9,5 +9,7 @@ Good for analysing any alpha wallet for copy trades. Interested investors, trade
 
 ![Screenshot from 2024-07-05 08-51-52](https://github.com/TrasherTravis/PnL_analysis_eth/assets/69963432/73a1d4f8-47ae-4488-9df0-7feaf9b21c17)
 
-Tech Stacks: Nodejs, Commander.js, Etherscan API, Web3js
+Tech Stacks: #Nodejs #Commanderjs #EtherscanAPI #Web3js
+
+Tags: #PnlAnalysis #Ethereum #Crypto #Trading #CliBots #CliScripts #javascript #profitorloss
 
